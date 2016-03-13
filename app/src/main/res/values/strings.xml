@@ -12,4 +12,6 @@
     <string name="less">Less</string>
     <string name="bluetooth">Bluetooth</string>
     <string name="author_sample_text">Author sample text</string>
+    <string name="crisis_link_url">http://crisislink.org/</string>
+    <string name="merrifield_center_link_url">https://www.fairfaxcounty.gov/contact/ProgramDetail.aspx?agId=4306</string>
 </resources>
