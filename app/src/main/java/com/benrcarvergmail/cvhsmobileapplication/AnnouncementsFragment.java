@@ -53,8 +53,7 @@ public class AnnouncementsFragment extends Fragment {
 
         // A LinearLayoutManager is a A RecyclerView.LayoutManager
         // implementation which provides similar functionality to ListView.
-        LinearLayoutManager llm = new LinearLayoutManager(getActivity());
-        rv.setLayoutManager(llm);
+        rv.setLayoutManager(new LinearLayoutManager(getActivity()));
 
         return rootView;
     }
